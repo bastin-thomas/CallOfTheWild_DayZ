@@ -44,6 +44,7 @@
 			<file usable="bear_territories"/>
 		</territory>
 
+
 		<!-- HEN -->
 		<territory type="Ambient" name="AmbientHen" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hen_territories" />
@@ -51,7 +52,7 @@
 			<agent type="Male" chance="1">
 				<spawn configName="Animal_GallusGallusDomesticus" chance="1" />
 			</agent>
-			<agent type="Female" chance="3">
+			<agent type="Female" chance="5">
 				<spawn configName="Animal_GallusGallusDomesticusF_Brown" chance="1" />
 				<spawn configName="Animal_GallusGallusDomesticusF_Spotted" chance="10" />
 				<spawn configName="Animal_GallusGallusDomesticusF_White" chance="20" />
@@ -64,6 +65,8 @@
 			<item name="playerSpawnRadiusFar" val="75" />
 		</territory>
 
+
+
 		<!-- HARE -->
 		<territory type="Ambient" name="AmbientHare" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hare_territories" />
@@ -75,13 +78,15 @@
 				<spawn configName="Animal_LepusEuropaeus" chance="1" />
 			</agent>
 
-			<item name="globalCountMax" val="0" />
+			<item name="globalCountMax" val="50" />
 			<item name="zoneCountMin" val="3" />
 			<item name="zoneCountMax" val="5" />
-			<item name="playerSpawnRadiusNear" val="15" />
-			<item name="playerSpawnRadiusFar" val="200" />
+			<item name="playerSpawnRadiusNear" val="50" />
+			<item name="playerSpawnRadiusFar" val="300" />
 		</territory>
 		
+
+
 		<!-- INFECTED -->
 		<territory type="Herd" name="ZombieTest" behavior="DZdomesticGroupBeh">
 			<file usable="zombie_territories" />

@@ -1,7 +1,10 @@
+# Base Server Ignore
 DayZServer/addons/**
 DayZServer/battleye/**
 DayZServer/bliss/**
 DayZServer/dta/**
 DayZServer/mpmissions/dayzOffline.enoch/**
+
+#Unused File Ignore
 *.gproj
 *.dll

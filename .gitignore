@@ -1,7 +1,7 @@
-DayZServer\addons
-DayZServer\battleye
-DayZServer\bliss
-DayZServer\dta
-DayZServer\mpmissions\dayzOffline.enoch\
+DayZServer/addons/**
+DayZServer/battleye/**
+DayZServer/bliss/**
+DayZServer/dta/**
+DayZServer/mpmissions/dayzOffline.enoch/**
 *.gproj
 *.dll

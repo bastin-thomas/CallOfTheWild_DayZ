@@ -6,4 +6,9 @@
 //---------------------------------------------------------------------------------------------------------------------------------
 //For comments use the // prefix. It can be used after an inserted ID, to easily mark it.
 
-1111111111112222222222222333333333XXXXXXAAAA	//Example of a character ID
+76561198195638943	//Arkios#2905 - Set Bullock
+76561198065418459	//GrizzyGrizz#6321 - Unkown
+76561198005203013	//Neloxor#0884 - Unkown
+76561199039759258 	//Bob Rich#0313 - Bob Rich
+76561197993500562	//Seth#7376 - Seth Baker
+76561198144283075 	//Dova - Unkown

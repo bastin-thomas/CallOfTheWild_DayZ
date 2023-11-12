@@ -1,0 +1,11 @@
+name = "Enfusion AI System";
+picture = "eAI/Data//eAI_logo.edds";
+logo = "eAI/Data//eAI_logo.edds";
+logoSmall = "eAI/Data//eAI_logo.edds";
+logoOver = "eAI/Data//eAI_logo.edds";
+tooltip = "Enfusion AI";
+overview = "This mod adds AI to DayZ SA.";
+action = "https://steamcommunity.com/sharedfiles/filedetails/?id=2905606565";
+author = "Ralian, Jacob Mango, Darc, Hunterz";
+authorID = "76561198829279936";
+version = "0.18";

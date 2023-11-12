@@ -1,0 +1,1 @@
+skeletonDefinitions = "Dayz_Seagull/seagull_skeleton.anim.xml"; 

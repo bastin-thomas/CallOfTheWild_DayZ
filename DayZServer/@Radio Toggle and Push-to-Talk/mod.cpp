@@ -1,0 +1,10 @@
+name = "Radio Toggle";
+picture = "radio_ptt/gui/images/radio_ptt_logo.edds";
+logoSmall = "radio_ptt/gui/images/radio_ptt_logo.edds";
+logo = "radio_ptt/gui/images/radio_ptt_logo.edds";
+logoOver = "radio_ptt/gui/images/radio_ptt_logo_highlight.edds";
+action = "";
+tooltip = "Adds a radio transmit toggle key to radio transmitters.";
+overview = "Adds a radio transmit toggle key to radio transmitters.";
+author = "Timo Zuccarello";
+hidePicture = 1;

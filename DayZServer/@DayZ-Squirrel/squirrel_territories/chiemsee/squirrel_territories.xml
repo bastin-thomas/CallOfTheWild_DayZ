@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4282546307">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="3036.67" z="9973.33" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5046.67" z="9066.67" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4796.67" z="8186.67" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5036.67" z="6516.67" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6143.33" z="5776.67" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6333.33" z="4543.33" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="4986.67" z="796.667" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6876.67" z="60" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="5330" z="76.6667" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8343.33" z="413.333" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="8853.33" z="886.667" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9100" z="2233.33" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9730" z="3170" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10023.3" z="4643.33" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="10133.3" z="2696.67" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="6323.33" z="4163.33" r="43.3333"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7246.67" z="3700" r="43.3333"/>
+    </territory>
+    <territory color="4293218068">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2176.67" z="6860" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1996.67" z="4813.33" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1486.67" z="2916.67" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="833.333" z="773.333" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="1696.67" z="243.333" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3946.67" z="523.333" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="4136.67" z="2336.67" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3283.33" z="4206.67" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2910" z="7030" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2580" z="8723.33" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2306.67" z="9783.33" r="43.3333"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="796.667" z="9720" r="43.3333"/>
+    </territory>
+    <territory color="4280766266">
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="990" z="6670" r="43.3333"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="263.333" z="6903.33" r="43.3333"/>
+        <zone name="HuntingGround" smin="0" smax="0" dmin="0" dmax="0" x="360" z="6406.67" r="43.3333"/>
+    </territory>
+    <territory color="4291824497">
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7363.33" z="7043.33" r="180"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7206.67" z="8743.33" r="180"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="9316.67" z="9220" r="180"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="7263.33" z="10040" r="180"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="786.667" z="7443.33" r="180"/>
+        <zone name="Rest" smin="0" smax="0" dmin="0" dmax="0" x="2250" z="2940" r="180"/>
+    </territory>
+</territory-type>

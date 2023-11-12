@@ -21,3 +21,4 @@ DayZServer/config/DataCache/**
 *.log
 *.DayZProfile
 *.map
+*.pbo

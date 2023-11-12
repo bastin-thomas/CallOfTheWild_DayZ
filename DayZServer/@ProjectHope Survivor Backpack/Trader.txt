@@ -1,0 +1,8 @@
+<Trader> NBC Gear
+	<Category> Survivor Backpack
+		SurvivorBackpack_Black,		*,		5000,	1500
+		SurvivorBackpack_Blue,		*,		5000,	1500
+		SurvivorBackpack_Green,		*,		5000,	1500
+		SurvivorBackpack_Pink,		*,		5000,	1500
+		SurvivorBackpack_Red,		*,		5000,	1500
+		SurvivorBackpack_Yellow,	*,		5000,	1500

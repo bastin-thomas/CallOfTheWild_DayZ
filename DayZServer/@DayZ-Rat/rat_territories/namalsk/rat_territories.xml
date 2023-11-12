@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+	<territory color="3556750600">
+		<!-- vorkuta -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6722.640137" z="11017.200195" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6593.810059" z="11026.500000" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6626.350098" z="11134.400391" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6726.299805" z="11099.400391" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6763.930176" z="11098.500000" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6740.709961" z="11164.700195" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6826.580078" z="11182.799805" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6886.169922" z="11269.599609" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6976.890137" z="11344.700195" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6925.140137" z="11334.299805" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6872.089844" z="11326.400391" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6921.580078" z="11384.900391" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6945.799805" z="11413.799805" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6968.790039" z="11465.900391" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7016.229980" z="11532.700195" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6755.770020" z="11451.700195" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6683.200195" z="11407.299805" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6620.529785" z="11443.099609" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6608.729980" z="11339.400391" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6619.149902" z="11301.099609" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6577.520020" z="11282.500000" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6629.689941" z="11260.200195" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6707.660156" z="11060.299805" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6694.600098" z="11286.599609" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6777.560059" z="11667.400391" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6241.140137" z="11789.799805" r="5"/>
+		<!-- lublajnsk -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4430.899902" z="11279.799805" r="5"/>
+		<!-- bk-t07 -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4405.870117" z="10723.799805" r="5"/>
+		<!-- bk-m06 -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4810.810059" z="10842.299805" r="5"/>
+		<!-- jalovisko -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="8260.400391" z="10783.000000" r="5"/>
+		<!-- refugee camp rf-1 -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7351.500000" z="10542.700195" r="5"/>
+		<!-- refugee camp rf-2 -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5174.160156" z="8982.919922" r="5"/>
+		<!-- airfield -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="6336.459961" z="9385.900391" r="5"/>
+		<!-- norinsk -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3817.510010" z="7460.060059" r="5"/>
+		<!-- bk-l02 -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="3458.219971" z="6721.109863" r="5"/>
+		<!-- bk-l01 -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4134.450195" z="6698.959961" r="5"/>
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4187.839844" z="6629.879883" r="5"/>
+		<!-- brensk -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="4312.779785" z="4755.160156" r="5"/>
+		<!-- bk-l16 -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="5985.790039" z="6651.890137" r="5"/>
+		<!-- tara -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7261.229980" z="7043.120117" r="5"/>
+		<!-- tara harbor -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7887.640137" z="7619.529785" r="5"/>
+		<!-- hospital -->
+		<zone name="Zone_hen" smin="0" smax="0" dmin="0" dmax="0" x="7317.149902" z="7957.689941" r="5"/>
+	</territory>
+</territory-type>

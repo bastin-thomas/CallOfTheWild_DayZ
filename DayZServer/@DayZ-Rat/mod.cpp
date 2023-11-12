@@ -1,0 +1,1 @@
+skeletonDefinitions = "Dayz_Rat/rat_skeleton.anim.xml"; 

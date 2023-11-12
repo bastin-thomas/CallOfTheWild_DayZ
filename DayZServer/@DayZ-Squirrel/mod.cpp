@@ -1,0 +1,1 @@
+skeletonDefinitions = "Dayz_Squirrel/squirrel_skeleton.anim.xml"; 

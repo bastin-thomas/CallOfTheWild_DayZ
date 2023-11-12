@@ -15,3 +15,7 @@ DayZServer/config/DataCache/**
 #Unused File Ignore
 *.gproj
 *.dll
+*.RPT
+*.mdmp
+*.ADM
+*.log

@@ -19,3 +19,5 @@ DayZServer/config/DataCache/**
 *.mdmp
 *.ADM
 *.log
+*.DayZProfile
+*.map

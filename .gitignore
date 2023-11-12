@@ -3,6 +3,9 @@ DayZServer/addons/**
 DayZServer/battleye/**
 DayZServer/bliss/**
 DayZServer/dta/**
+DayZServer/logs/**
+DayZServer/appcache/**
+
 DayZServer/mpmissions/dayzOffline.enoch/**
 DayZServer/mpmissions/dayzOffline.chernarusplus/**
 DayZServer/mpmissions/dayzOffline.chernarusplus/storage_1/**

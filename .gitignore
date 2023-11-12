@@ -4,6 +4,8 @@ DayZServer/battleye/**
 DayZServer/bliss/**
 DayZServer/dta/**
 DayZServer/mpmissions/dayzOffline.enoch/**
+DayZServer/mpmissions/dayzOffline.chernarusplus/**
+DayZServer/mpmissions/dayzOffline.chernarusplus/storage_1/**
 
 #Unused File Ignore
 *.gproj

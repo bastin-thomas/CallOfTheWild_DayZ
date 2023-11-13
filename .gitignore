@@ -27,3 +27,4 @@ DayZServer/config/Zenarchist/Logs/**
 *.pbo
 
 credentials.txt
+DayZServer/config/Zenarchist/Logs/ZenFirewoodLogger.txt

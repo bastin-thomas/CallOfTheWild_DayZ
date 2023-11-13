@@ -1,0 +1,6 @@
+{
+    "configVersion": 2,
+    "disableForceAdminLock": 1,
+    "disableForceLock": 0,
+    "enableOpenClosePersistence": 1
+}

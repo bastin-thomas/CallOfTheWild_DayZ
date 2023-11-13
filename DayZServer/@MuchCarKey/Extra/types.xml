@@ -1,8 +1,5 @@
 	<!-- MuchCarKey -->   
-        <type name="MCK_CarKey_Base">
-            <lifetime>7200</lifetime>
-            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        </type> 
+        
         <type name="MCK_CarKey_Blue">
             <lifetime>7200</lifetime>
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -24,14 +21,7 @@
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         </type>
 		
-        <type name="MCK_CarKeyTag_Base">
-            <lifetime>7200</lifetime>
-            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        </type>
-        <type name="MCK_CarKeyTag_OlgaBlack">
-            <lifetime>7200</lifetime>
-            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        </type>
+        
         <type name="MCK_CarKeyTag_OlgaWhite">
             <lifetime>7200</lifetime>
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
@@ -72,14 +62,8 @@
             <lifetime>7200</lifetime>
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
         </type>
-        <type name="MCK_CarKeyTag_SarkaYellow">
-            <lifetime>7200</lifetime>
-            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        </type>
-        <type name="MCK_CarKeyTag_Black">
-            <lifetime>7200</lifetime>
-            <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        </type>
+        
+        
         <type name="MCK_CarKeyTag_Blue">
             <lifetime>7200</lifetime>
             <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>

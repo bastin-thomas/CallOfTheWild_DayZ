@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+
+	<!-- Copy from here... -->
+	<ce folder="BuildingKeys_ce">
+		<file name="Key_types.xml" type="types" />
+	</ce>
+	<!-- ....To here -->
+	
+</economycore>

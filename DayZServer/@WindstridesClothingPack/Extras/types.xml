@@ -983,7 +983,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-            <type name="Scarf_Brown">
+    <type name="Scarf_Brown">
         <nominal>5</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>
@@ -1079,7 +1079,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-            <type name="Plague_Mask">
+    <type name="Plague_Mask">
         <nominal>2</nominal>
         <lifetime>21600</lifetime>
         <restock>0</restock>

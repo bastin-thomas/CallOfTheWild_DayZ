@@ -1,0 +1,11 @@
+name = "Building Door Keys";
+picture = "BuildingDoorKeys/gui/imagesets/Keys.edds";
+logo = "BuildingDoorKeys/gui/imagesets/Keys.edds";
+logoSmall = "BuildingDoorKeys/gui/imagesets/Keys.edds";
+logoOver = "BuildingDoorKeys/gui/imagesets/Keys.edds";
+tooltip = "$STR_MOD_DOORKEYS_NAME";
+overview = "$STR_MOD_DOORKEYS_DESC";
+action = "";
+author = "$STR_MOD_DOORKEYS_AUTHOR";
+authorID = "";
+version = "1.0.0";

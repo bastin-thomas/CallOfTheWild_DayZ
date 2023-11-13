@@ -1,0 +1,34 @@
+{
+    "ConfigVersion": "2",
+    "AllowChangingFonts": 1,
+    "PenConsumeQuantity": 1,
+    "NoteDateFormat": {
+        "Format": 1,
+        "DaySuffix": [
+            "st",
+            "nd",
+            "rd",
+            "th"
+        ],
+        "MonthName": [
+            "Janvier",
+            "Février",
+            "Mars",
+            "Avril",
+            "Mai",
+            "Juin",
+            "Juillet",
+            "Aout",
+            "Septembre",
+            "Octobre",
+            "Novembre",
+            "Décembre"
+        ]
+    },
+    "WordBlacklist": [
+        "pute",
+        "salope",
+        "connasse"
+    ],
+    "SendPlayerWarning": "Faites attention a ce que vous écrivez."
+}

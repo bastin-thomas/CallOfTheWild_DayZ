@@ -932,11 +932,13 @@
 		<cargo chance="0.10">
 			<item name="Rope" chance="0.14" />
 		</cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="PrisonUniformPants">
 		<cargo chance="0.10">
 			<item name="Rope" chance="0.14" />
 		</cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MiniDress_Pink">
 		<cargo chance="0.10">
@@ -944,6 +946,7 @@
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MiniDress_PinkChecker">
 		<cargo chance="0.10">
@@ -951,6 +954,7 @@
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MiniDress_RedChecker">
 		<cargo chance="0.10">
@@ -958,6 +962,7 @@
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MiniDress_WhiteChecker">
 		<cargo chance="0.10">
@@ -965,6 +970,7 @@
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MiniDress_GreenChecker">
 		<cargo chance="0.10">
@@ -972,6 +978,7 @@
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MiniDress_BrownChecker">
 		<cargo chance="0.10">
@@ -979,6 +986,7 @@
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MiniDress_BlueChecker">
 		<cargo chance="0.10">
@@ -986,6 +994,7 @@
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MiniDress_BlueWithDots">
 		<cargo chance="0.10">
@@ -993,51 +1002,67 @@
 			<item name="Ammo_380" chance="0.20" />
 		</cargo>
 		<cargo chance="0.01"> <item name="Derringer_Pink" /> </cargo>
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="QuiltedJacket_Black">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="QuiltedJacket_Green">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="QuiltedJacket_Blue">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="QuiltedJacket_Red">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="QuiltedJacket_Grey">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="QuiltedJacket_Orange">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="QuiltedJacket_Yellow">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="QuiltedJacket_Violet">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="BomberJacket_Black">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="BomberJacket_Brown">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="BomberJacket_Blue">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="BomberJacket_Grey">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="BomberJacket_Maroon">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="BomberJacket_Olive">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="BomberJacket_SkyBlue">
 		<cargo preset="mixVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="MedicalScrubsShirt_Blue">
 		<cargo preset="toolsMedic" />
@@ -1068,18 +1093,22 @@
 	<type name="Blouse_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="Blouse_Green">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="Blouse_Violet">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="Blouse_White">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="DirtBikeHelmet_Black">
 		<attachments chance="0.20">
@@ -1208,6 +1237,7 @@
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
@@ -1215,23 +1245,27 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 	</type>
 	<type name="ZmbF_Clerk_Normal_Red">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbF_Clerk_Normal_White">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbF_CitizenANormal_Beige">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1239,6 +1273,7 @@
 	<type name="ZmbF_CitizenANormal_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1247,12 +1282,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbF_CitizenBSkinny">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1260,18 +1297,21 @@
 	<type name="ZmbF_JournalistNormal_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbF_JournalistNormal_Green">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbF_JournalistNormal_Red">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
@@ -1279,12 +1319,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbF_ShortSkirt_beige">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1293,12 +1335,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbF_ShortSkirt_brown">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1306,6 +1350,7 @@
 	<type name="ZmbF_ShortSkirt_checks">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1313,6 +1358,7 @@
 	<type name="ZmbF_ShortSkirt_green">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1320,6 +1366,7 @@
 	<type name="ZmbF_ShortSkirt_grey">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1328,6 +1375,7 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
@@ -1335,12 +1383,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbF_ShortSkirt_white">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1348,6 +1398,7 @@
 	<type name="ZmbF_ShortSkirt_yellow">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1355,6 +1406,7 @@
 	<type name="ZmbF_SkaterYoung_Brown">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="glassesCity" />
 		<attachments preset="bagsCity" />
@@ -1362,6 +1414,7 @@
 	<type name="ZmbF_SkaterYoung_Striped">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="glassesCity" />
 		<attachments preset="bagsCity" />
@@ -1369,6 +1422,7 @@
 	<type name="ZmbF_SkaterYoung_Violet">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCitySkate" />
 		<attachments preset="glassesCity" />
 		<attachments preset="bagsCity" />
@@ -1376,6 +1430,7 @@
 	<type name="ZmbF_SurvivorNormal_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1384,12 +1439,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbF_SurvivorNormal_Red">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1397,6 +1454,7 @@
 	<type name="ZmbF_SurvivorNormal_White">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1404,6 +1462,7 @@
 	<type name="ZmbM_CitizenASkinny_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1412,12 +1471,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbM_CitizenASkinny_Grey">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1425,6 +1486,7 @@
 	<type name="ZmbM_CitizenASkinny_Red">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1432,6 +1494,7 @@
 	<type name="ZmbM_CitizenBFat_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1439,6 +1502,7 @@
 	<type name="ZmbM_CitizenBFat_Green">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1446,6 +1510,7 @@
 	<type name="ZmbM_CitizenBFat_Red">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1453,6 +1518,7 @@
 	<type name="ZmbM_ClerkFat_Brown">
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
+		<cargo preset="RU_Money" />
 		<cargo preset="toolsCommon_T1" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
@@ -1460,6 +1526,7 @@
 	<type name="ZmbM_ClerkFat_Grey">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1467,6 +1534,7 @@
 	<type name="ZmbM_ClerkFat_Khaki">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1474,6 +1542,7 @@
 	<type name="ZmbM_ClerkFat_White">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1481,18 +1550,21 @@
 	<type name="ZmbM_CommercialPilotOld_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbM_CommercialPilotOld_Brown">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbM_CommercialPilotOld_Grey">
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
+		<cargo preset="RU_Money" />
 		<cargo preset="toolsCommon_T1" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
@@ -1500,12 +1572,14 @@
 	<type name="ZmbM_CommercialPilotOld_Olive">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 	</type>
 	<type name="ZmbM_Jacket_beige">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1513,6 +1587,7 @@
 	<type name="ZmbM_Jacket_black">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1520,6 +1595,7 @@
 	<type name="ZmbM_Jacket_blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1528,12 +1604,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbM_Jacket_brown">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1541,6 +1619,7 @@
 	<type name="ZmbM_Jacket_greenchecks">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1548,6 +1627,7 @@
 	<type name="ZmbM_Jacket_grey">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1555,6 +1635,7 @@
 	<type name="ZmbM_Jacket_khaki">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1563,12 +1644,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbM_Jacket_stripes">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesCity" />
 		<attachments preset="hatsCity" />
 		<attachments preset="bagsCity" />
@@ -1576,6 +1659,7 @@
 	<type name="ZmbM_JournalistSkinny">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsCity" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbM_MotobikerFat_Beige">
 		<cargo preset="foodCity" />
@@ -1623,6 +1707,7 @@
 	<type name="ZmbF_BlueCollarFat_Blue">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsIndustrial" />
 		<attachments preset="vestsIndustrial" />
@@ -1637,6 +1722,7 @@
 	<type name="ZmbF_BlueCollarFat_Red">
 		<cargo preset="foodCity" />
 		<cargo preset="toolsIndustrial" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsIndustrial" />
 		<attachments preset="vestsIndustrial" />
@@ -1817,12 +1903,15 @@
 	</type>
 	<type name="ZmbF_ParamedicNormal_Blue">
 		<cargo preset="toolsMedic" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbF_ParamedicNormal_Green">
 		<cargo preset="toolsMedic" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbF_ParamedicNormal_Red">
 		<cargo preset="toolsMedic" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbF_PatientOld">
 		<cargo preset="toolsMedic" />
@@ -1833,18 +1922,23 @@
 	</type>
 	<type name="ZmbM_ParamedicNormal_Black">
 		<cargo preset="toolsMedic" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbM_ParamedicNormal_Blue">
 		<cargo preset="toolsMedic" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbM_ParamedicNormal_Green">
 		<cargo preset="toolsMedic" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbM_ParamedicNormal_Red">
 		<cargo preset="toolsMedic" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbM_PatientSkinny">
 		<cargo preset="toolsMedic" />
+		<cargo preset="RU_Money" />
 	</type>
 	<!-- Police -->
 	<type name="ZmbF_PoliceWomanNormal">
@@ -2006,61 +2100,72 @@
 	<type name="ZmbF_MilkMaidOld_Beige">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Black">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Green">
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 	</type>
 	<type name="ZmbF_MilkMaidOld_Grey">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 	</type>
 	<type name="ZmbF_VillagerOld_Blue">
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbF_VillagerOld_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
 	<type name="ZmbF_VillagerOld_Red">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
 	<type name="ZmbF_VillagerOld_White">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
 	<type name="ZmbF_JoggerSkinny_Blue">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
 	<type name="ZmbF_JoggerSkinny_Brown">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
 	<type name="ZmbF_JoggerSkinny_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
@@ -2068,6 +2173,7 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="helmetsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
@@ -2075,33 +2181,39 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbM_FarmerFat_Blue">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 	</type>
 	<type name="ZmbM_FarmerFat_Brown">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 	</type>
 	<type name="ZmbM_FarmerFat_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 	</type>
 	<type name="ZmbM_JoggerSkinny_Blue">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
 	<type name="ZmbM_JoggerSkinny_Green">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
@@ -2109,12 +2221,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="helmetsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbM_VillagerOld_Blue">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
@@ -2122,12 +2236,14 @@
 		<cargo preset="drinks_T1" />
 		<cargo preset="food_T1" />
 		<cargo preset="toolsCommon_T1" />
+		<cargo preset="RU_Money" />
 		<attachments preset="hatsCommon_T1" />
 		<attachments preset="backpacks_T1" />
 	</type>
 	<type name="ZmbM_VillagerOld_White">
 		<cargo preset="foodVillage" />
 		<cargo preset="toolsVillage" />
+		<cargo preset="RU_Money" />
 		<attachments preset="glassesVillage" />
 		<attachments preset="hatsFarm" />
 	</type>
@@ -3829,4 +3945,621 @@
 		</attachments>
 	</type>
 -->
+
+
+
+
+
+	<type name="RFWC_Whaler">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".05">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance=".45">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="RFWC_CarpBoat">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+		</type>	
+	<type name="RFWC_CarpBoat_Rusty">
+		<damage min="0.1" max="0.4" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".10">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".10">
+			<item name="CanisterGasoline" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+		</type>
+	<type name="RFWC_Zodiac_Black">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="CanisterGasoline" chance=".05" />
+		</attachments>
+		<attachments chance=".45">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+	</type>	
+	<type name="RFWC_Zodiac_Orange">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="CanisterGasoline" chance=".05" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RFWC_DragBoat_Red">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="CanisterGasoline" chance=".05" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RFWC_DragBoat_Black">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="CanisterGasoline" chance=".05" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RFWC_Seadoo_Camo">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="CanisterGasoline" chance=".05" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RFWC_Seadoo_Green">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="CanisterGasoline" chance=".05" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="RFWC_Seadoo_Orange">
+		<damage min="0.1" max="0.3" />
+		<attachments chance=".45">
+			<item name="RFWC_Anchor_Rope" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="SparkPlug" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="TruckBattery" chance="1.00" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="CanisterGasoline" chance=".05" />
+		</attachments>
+		<attachments chance=".20">
+			<item name="EngineOil" chance="1.00" />
+		</attachments>
+	</type>
+
+
+
+
+
+
+
+
+
+
+
+
+	<type name="RFFSHeli_LittleBird">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_wiring_harness" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_igniter_plug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_aviation_battery" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="RFFSHeli_LittleBird_Camo">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_wiring_harness" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_igniter_plug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_aviation_battery" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="RFFSHeli_LittleBird_Desert">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_wiring_harness" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_igniter_plug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_aviation_battery" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="RFFSHeli_Bo105m">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_wiring_harness" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_igniter_plug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_aviation_battery" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="RFFSHeli_Bo105m_blackcamo">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_wiring_harness" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_igniter_plug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_aviation_battery" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="RFFSHeli_KA26">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_wiring_harness" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_igniter_plug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_aviation_battery" chance="0.10" />
+		</attachments>
+	</type>
+	<type name="RFFSHeli_Bell429">
+		<attachments chance="1.00">
+			<item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_wiring_harness" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_igniter_plug" chance="0.10" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFFSHeli_aviation_battery" chance="0.10" />
+		</attachments>
+	</type>
+    <type name="RFFSHeli_Bell429_Medic">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+    </type>
+    <type name="RFFSHeli_Bell429_Police">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+    </type>
+    <type name="RFFSHeli_Bell429_ZS">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+    </type>
+    <type name="RFFSHeli_Bell429_Uganda">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+    </type>
+    <type name="RFFSHeli_Mi2">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+    </type>
+    <type name="RFFSHeli_Mi2_Military">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+    </type>
+    <type name="RFFSHeli_Mi2_Hornet">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_Apache">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_Apache_Winter">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_Apache_Desert">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_Blackhawk">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_Blackhawk_Cargo">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_Blackhawk_Woodland">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_CH53e">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_CH47">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_EC135">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
+    <type name="RFFSHeli_EC135_BlackCamo">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" chance="0.10" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+</type>
 </spawnabletypes>

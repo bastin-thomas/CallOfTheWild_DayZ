@@ -1,0 +1,89 @@
+{
+    "Shirts": [
+        "TShirt_Grey"
+    ],
+    "Pants": [
+        "SlacksPants_Blue"
+    ],
+    "Shoes": [
+        "HikingBootsLow_Blue"
+    ],
+    "BackPacks": [
+        "Canvas_Backpack_Black"
+    ],
+    "Vests": [
+        "SmershVest"
+    ],
+    "Headgear": [
+        "BaseballCap_Blue"
+    ],
+    "Gloves": [
+        "SurgicalGloves_Blue"
+    ],
+    "Misc": [
+        "CivilianBelt"
+    ],
+    "ClothesHealth": [
+        75,
+        100
+    ],
+    "WeaponMelee": [
+        "MeleeBat"
+    ],
+    "WeaponRifle": [
+        "SKS",
+        "Mosin9130",
+        "AKS74U"
+    ],
+    "WeaponRifleMagCount": [
+        1,
+        5
+    ],
+    "WeaponHandgun": [
+        "MakarovIJ70"
+    ],
+    "WeaponHandgunMagCount": [
+        1,
+        3
+    ],
+    "WeaponHealth": [
+        75,
+        100
+    ],
+    "Loot": [
+        "SodaCan_Cola",
+        "Screwdriver",
+        "ChernarusMap",
+        "NailBox",
+        "PeachesCan",
+        "Pot",
+        "Potato",
+        "Pliers"
+    ],
+    "LootRandom": [
+        "Screwdriver",
+        "AmmoBox_308Win_20Rnd",
+        "AmmoBox_357_20Rnd",
+        "AmmoBox_45ACP_25rnd",
+        "AmmoBox_545x39Tracer_20Rnd",
+        "AmmoBox_556x45_20Rnd",
+        "AmmoBox_762x39_20Rnd",
+        "AmmoBox_762x54_20Rnd",
+        "AmmoBox_9x19_25rnd"
+    ],
+    "LootChance": [
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100,
+        100
+    ],
+    "LootHealth": [
+        75,
+        100
+    ],
+    "Locked": 0
+}

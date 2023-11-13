@@ -1117,4 +1117,259 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
+
+
+
+
+
+
+
+
+    <!-- ================ DayZ Dog [START] ================= -->
+    <event name="AnimalWildDog">
+        <nominal>6</nominal>
+        <min>1</min>
+        <max>5</max>
+        <lifetime>180</lifetime>
+        <restock>0</restock>
+        <saferadius>350</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild1"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild2"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild3"/>
+            <child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild4"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild5"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild6"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild7"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild8"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild9"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild10"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild11"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild12"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild13"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild14"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild15"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild16"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild17"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild18"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild19"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild20"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild21"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild22"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild23"/>
+			<child lootmax="0" lootmin="0" max="1" min="0" type="Doggo_Wild24"/>
+        </children>
+    </event>
+    <!-- ================ DayZ Dog [END]   ================= -->
+
+    <!-- ================ Otter [START] ================= -->
+    <event name="AmbientOtter">
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>20</max>
+        <lifetime>33</lifetime>
+        <restock>15</restock>
+        <saferadius>40</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Otter"/>
+        </children>
+    </event>
+    <!-- ================ Otter [END]   ================= -->
+
+    <!-- ================ Rabbit [START] ================= -->
+    <event name="AmbientRabbit">
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>50</max>
+        <lifetime>33</lifetime>
+        <restock>15</restock>
+        <saferadius>40</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Rabbit_Brown"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Rabbit_Grey"/>
+        </children>
+    </event>
+    <!-- ================ Rabbit [END]   ================= -->
+
+
+    <!-- ================ Rat [START] ================= -->
+    <event name="AmbientRat">
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>50</max>
+        <lifetime>33</lifetime>
+        <restock>15</restock>
+        <saferadius>40</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Rat_Grey"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Rat_White"/>
+        </children>
+    </event>
+    <!-- ================ Rat [END]   ================= -->
+
+    <!-- ================ Raven [START] ================= -->
+    <event name="AmbientRaven">
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>50</max>
+        <lifetime>33</lifetime>
+        <restock>15</restock>
+        <saferadius>40</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Raven"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Raven2"/>
+        <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Raven_Airborne"/>
+        </children>
+    </event>
+    <!-- ================ Raven [END]   ================= -->
+
+
+    <!-- ================ Seagull DayZ [START] ================= -->
+    <event name="AmbientSeagull">
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>50</max>
+        <lifetime>33</lifetime>
+        <restock>15</restock>
+        <saferadius>40</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Seagull"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_Seagull_Airborne"/>
+        </children>
+    </event>
+    <!-- ================ Seagull DayZ [END]   ================= -->
+
+
+
+    <!-- ================ Squirell DayZ [START] ================= -->
+    <event name="AmbientSquirrel">
+        <nominal>3</nominal>
+        <min>0</min>
+        <max>50</max>
+        <lifetime>33</lifetime>
+        <restock>15</restock>
+        <saferadius>40</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>0</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_Squirrel"/>
+        </children>
+    </event>
+	<!-- ================ Squirell DayZ [END]   ================= -->
+
+
+    <!-- ================ RedFalcon [START] ================= -->
+    <event name="VehicleRFWC_Watercraft">
+        <nominal>15</nominal>
+        <min>10</min>
+        <max>15</max>
+        <lifetime>300</lifetime>
+        <restock>3</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Whaler" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_CarpBoat" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_CarpBoat_Rusty" />
+        <child lootmax="0" lootmin="0" max="4" min="2" type="RFWC_Zodiac_Black" />
+        <child lootmax="0" lootmin="0" max="4" min="2" type="RFWC_Zodiac_Orange" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_DragBoat_Red" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_DragBoat_Black" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Camo" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Orange" />
+        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Orange" />
+        </children>
+    </event>
+    <event name="VehicleHeliSpawn">
+        <nominal>3</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird_Camo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird_Desert"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m_blackcamo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_KA26"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Police"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Medic"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_ZS"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Uganda"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Military"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Hornet"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Winter"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Desert"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk_Cargo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk_Woodland"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_CH53e"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_CH47"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_EC135"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_EC135_BlackCamo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H_Combat"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_S76"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_S76_WoodlandCamo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_AS350"/>
+        </children>
+    </event>
+    <!-- ================ RedFalcon [END]   ================= -->
+    
 </events>

@@ -1,0 +1,224 @@
+{
+    "ConfigVersion": "4",
+    
+    "CONFIG_MAIN": "------------------------------------------------------------------------------------",
+    "MaxWakeTime": 360,
+    "AllowInventoryWhileSleep": 0,
+    "CanUnconInVehicle": 1,
+    "AttenuateSound": 1,
+    "SleepBlackScreen": 1,
+    "TextNotificationOn": 1,
+    "TextNotificationFrequency": 5,
+    "HideHudWhileSleeping": 1,
+    "OnlyShowSleepOnInventory": 0,
+    "OnlyShowSleepAbovePercent": 0,
+
+    "CONFIG_RANDOM_CHANCE": "---------------------------------------------------------------------------",
+    "SleepSoundPercentChance": 0.07999999821186066,
+    "YawnPercentStart": 20,
+    "YawnPercentChance": 0.06499999761581421,
+    "UnconPercentStart": 10,
+    "UnconPercentChance": 0.009999999776482582,
+
+    "CONFIG_INFLUENZA": "-------------------------------------------------------------------------------",
+    "InfluenzaInjectNoFire": 5,
+    "InfluenzaMultiplierNightNoFire": 1.5,
+    "InfluenzaMultiplierWetNoFire": 2.0,
+
+    "CONFIG_MAX_REST": "--------------------------------------------------------------------------------",
+    "MaxRestDayNoFire": 60,
+    "MaxRestDayWithFire": 75,
+    "MaxRestNightNoFire": 80,
+    "MaxRestNightWithFire": 100,
+    "MaxRestWhenWetDay": 50,
+    "MaxRestWhenWetNight": 75,
+    "ImmunityBoostAtRestLevel": 100,
+
+    "CONFIG_ACCELERATOR": "-----------------------------------------------------------------------------",
+    "HeatBuffCountsAsFire": 0,
+    "WetnessCancelsFireAccelerator": 1,
+    "BaseSleepAccelerator": 1.0,
+    "AsleepAccelerator": 0.0010000000474974514,
+    "OutsideFireAcceleratorPercent": 5,
+    "InsideNoFireAcceleratorPercent": 10,
+    "InsideFireAcceleratorPercent": 20,
+    "HealthRegenAsleep": 0.75,
+    "BloodRegenAsleep": 10.0,
+
+    "CONFIG_PENALTIES": "-------------------------------------------------------------------------------",
+    "EnableMovementPenalties": 1,
+    "SprintUprightPenalty": 1.2000000476837159,
+    "SprintCrouchedPenalty": 1.149999976158142,
+    "JoggingPenalty": 1.100000023841858,
+    "ClimbSlowPenalty": 1.5,
+    "ClimbFastPenalty": 2.0,
+    "SwimSlowPenalty": 1.5,
+    "SwimFastPenalty": 2.0,
+    "WalkingHeavyItemPenalty": 2.0,
+
+    "CONFIG_NIGHT": "-----------------------------------------------------------------------------------",
+    "NightTimeStartHour": 0,
+    "NightTimeStartMin": 0,
+    "NightTimeEndHour": 0,
+    "NightTimeEndMin": 0,
+    
+    "CONFIG_MODIFIERS": "-------------------------------------------------------------------------------",
+    "EnergyDrinks": [
+        {
+            "ItemType": "SodaCan_Pipsi",
+            "EnergyGained": -15
+        },
+        {
+            "ItemType": "SodaCan_Cola",
+            "EnergyGained": -20
+        },
+        {
+            "ItemType": "SodaCan_Spite",
+            "EnergyGained": -10
+        },
+        {
+            "ItemType": "SodaCan_Kvass",
+            "EnergyGained": -5
+        },
+        {
+            "ItemType": "SodaCan_Fronta",
+            "EnergyGained": -10
+        },
+        {
+            "ItemType": "Epinephrine",
+            "EnergyGained": -25
+        },
+        {
+            "ItemType": "Morphine",
+            "EnergyGained": 20
+        },
+        {
+            "ItemType": "AntiChemInjector",
+            "EnergyGained": 100
+        },
+        {
+            "ItemType": "ZenSleep_Syringe",
+            "EnergyGained": 100
+        },
+        {
+            "ItemType": "ZenSleep_StimSyringe",
+            "EnergyGained": -100
+        }
+    ],
+    "RestObjects": [
+        {
+            "ObjectType": "makeshifttent_mung_Deployed",
+            "MaxRestDay": 90,
+            "MaxRestNight": 90,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "sleepingbag_green_mung_Deployed",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "sleepingbag_red_mung_Deployed",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "sleepingbag_yellow_mung_Deployed",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "sleepingbag_blue_mung_Deployed",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "LargeTent",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 20,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "MediumTent_Green",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "MediumTent_Orange",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "MSP_SleepingBag",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        }, 
+        {
+            "ObjectType": "sleepingbag_red_mung",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 0
+        }, 
+        {
+            "ObjectType": "MSP_Mattress",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 10,
+            "Influenza": 1
+        },
+        {
+            "ObjectType": "bl_pallet_bed_s",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 20,
+            "Influenza": 0
+        },
+        {
+            "ObjectType": "bl_pallet_bed_m",
+            "MaxRestDay": 80,
+            "MaxRestNight": 100,
+            "SleepAcceleratorPercent": 25,
+            "Influenza": 0
+        }
+    ],
+    "UsedStimSyringeType": "ZenSleep_Empty_StimSyringe",
+    "UsedSleepSyringeType": "ZenSleep_Empty_Syringe",
+    "CONFIG_TEXT": "------------------------------------------------------------------------------------",
+    "Str_RestUpdate": "Mon niveau de someil est ",
+    "Str_RestUpdate1": "et j'ai froid...",
+    "Str_RestUpdate2": "et je perd ma chaleur...",
+    "Str_RestUpdate3": "et j'ai chaud.",
+    "Str_RestUpdate4": "et j'ai légèrement chaud.",
+    "Str_RestUpdate5": "et mes vêtements sont mouillé et inconfortable...",
+    "Str_ITooTired1": "Je me sent vraiment fatigué... Je devrait dormir",
+    "Str_ITooTired2": "Je suis debout depuis longtemps... Je devrait dormir",
+    "Str_ITooTired3": "Je suis exténué... Je devrait dormir",
+    "Str_CantSleep1": "Je ne peut plus dormir plus longtemps...",
+    "Str_CantSleep2": "Je ne peut plus dormir plus longtemps, J'ai trop froid...",
+    "Str_CantSleep3": "Je ne peut plus dormir plus longtemps, Il fait trop jour et j'ai trop froid...",
+    "Str_CantSleep4": "Je ne peut plus dormir plus longtemps, Il fait trop jour...",
+    "Str_CantSleep5": "Je ne peut plus dormir plus longtemps, Mes vêtements sont mouillé et j'ai trop froid...",
+    "CONFIG_DEBUG": "-----------------------------------------------------------------------------------",
+    "TirednessHudX": 0.8550000190734863,
+    "TirednessHudY": 0.019999999552965165,
+    "AdminSteam64ID": "www.steamidfinder.com",
+    "DebugOn": 0,
+    "RestUpdateTick": 3
+}

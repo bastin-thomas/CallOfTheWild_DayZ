@@ -1,0 +1,2 @@
+Remove this text and add your steam64 ID (each ID entry on a *new line*, no spaces between or commas)
+76561198195638943

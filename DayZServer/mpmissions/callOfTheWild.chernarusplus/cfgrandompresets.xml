@@ -778,4 +778,31 @@
 			<item name="Mag_STANAG_60Rnd" chance="0.05" />
 			<item name="Mag_AKM_Drum75Rnd" chance="0.05" />
 		</cargo>
+
+
+
+
+
+
+
+
+
+
+	<!-- ================ More Money [START] ================= -->
+	<cargo chance="0.15" name="RU_Money">
+				<item name="Money_Ruble1" chance="0.15" />
+				<item name="Money_Ruble2" chance="0.15" />
+				<item name="Money_Ruble5" chance="0.15" />
+				<item name="Money_Ruble10" chance="0.15" />
+				<item name="Money_Ruble50" chance="0.10" />
+				<item name="Money_Ruble100" chance="0.05" />
+				<item name="Money_Ruble200" chance="0.05" />
+				<item name="Money_Ruble500" chance="0.05" />
+				<item name="Money_Ruble1000" chance="0.03" />
+				<item name="Money_Ruble2000" chance="0.02" />
+				<item name="Money_Ruble5000" chance="0.01" />
+	</cargo>
+    <!-- ================ More Money [END]   ================= -->
+
+
 </randompresets>

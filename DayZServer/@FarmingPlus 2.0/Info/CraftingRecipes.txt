@@ -1,0 +1,19 @@
+Farm Fence Kit = 1 log + 3 Planks
+
+Farm Gate Kit = 1 log + 3 Planks
+
+Chicken Coop Kit = 1 log + 5 Planks
+
+Pig Pen Kit = 1 log + 5 Planks
+
+************************************
+To upgrade the chicken coops
+
+15 Nails + 5 Planks
+
+to the slots in the chicken coop, and build up with a hammer.
+************************************
+
+Destruction tools
+-axes, hatches, crowbar, sledgehammer
+

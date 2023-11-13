@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": "1",
+    "RestrictionTime": 15,
+    "ApplyToVehicles": 0,
+    "RestrictAreas": 0,
+    "ViewRestrictedItems": [
+        "Firearm",
+        "Grenade",
+        "RemoteDetonatorTrigger"
+    ],
+    "FirstPersonZones": []
+}

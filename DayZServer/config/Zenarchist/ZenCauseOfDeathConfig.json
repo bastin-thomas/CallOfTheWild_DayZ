@@ -1,0 +1,83 @@
+{
+    "ConfigVersion": "2",
+    "CauseOfDeathPrefix1": "Il semble",
+    "DeadPlayerPrefix": "que cette",
+    "MaleGender": "personne",
+    "FemaleGender": "personne",
+    "CauseOfDeathPrefix2": "est morte de",
+    "CauseOfDeathDefs": [
+        {
+            "AmmoType": "indéterminé",
+            "CauseMessage": "indéterminé"
+        },
+        {
+            "AmmoType": "chute",
+            "CauseMessage": "le résultat d'un grand saut."
+        },
+        {
+            "AmmoType": "coup",
+            "CauseMessage": "il c'est fait roué de coup."
+        },
+        {
+            "AmmoType": "mordu",
+            "CauseMessage": "Il c'est fais mordre."
+        },
+        {
+            "AmmoType": "balle",
+            "CauseMessage": "on peut récupérer la balle..."
+        },
+        {
+            "AmmoType": "explosion",
+            "CauseMessage": "le corp est éparpillé."
+        },
+        {
+            "AmmoType": "grenade",
+            "CauseMessage": "le corp est éparpillé..."
+        },
+        {
+            "AmmoType": "mine",
+            "CauseMessage": "il y a un champ de mine a proximitée..."
+        },
+        {
+            "AmmoType": "écrasé",
+            "CauseMessage": "Il c'est fais roulé dessus par un véhicule."
+        },
+        {
+            "AmmoType": "loup",
+            "CauseMessage": "une attaque de loup?"
+        },
+        {
+            "AmmoType": "ours",
+            "CauseMessage": "il c'est fais attrapé par un grand animal, probablement un ours..."
+        },
+        {
+            "AmmoType": "brulure",
+            "CauseMessage": "brulure au troisième degré."
+        },
+        {
+            "AmmoType": "saignement",
+            "CauseMessage": "il a perdu son sang."
+        },
+        {
+            "AmmoType": "faim",
+            "CauseMessage": "C'est dure de trouver a manger."
+        },
+        {
+            "AmmoType": "soif",
+            "CauseMessage": "déshydratation."
+        },
+        {
+            "AmmoType": "infection",
+            "CauseMessage": "la blessure c'est infectée."
+        },
+        {
+            "AmmoType": "contamination",
+            "CauseMessage": "contamination toxique. Je devrait ne pas m'approcher!"
+        },
+        {
+            "AmmoType": "suicide",
+            "CauseMessage": "Il c'est sucidé, ça aurais pu être pire"
+        }
+    ],
+    "DebugOn": 0
+}

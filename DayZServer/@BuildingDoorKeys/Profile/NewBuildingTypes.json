@@ -1,0 +1,77 @@
+[
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Large Hangar Key",
+            "BuildingClass": "Land_fishyIND_hangar1",
+            "BuildingName": "Large Hanger One",
+            "BuildingDescription": "Large Hanger With Garage Door",
+            "FlagOffset": [-6.55, -1.622, -1.3],
+            "FlagOreintation": [180, 0, 0]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Large Hangar Key",
+            "BuildingClass": "Land_fishyIND_hangar2",
+            "BuildingName": "Large Hanger Two",
+            "BuildingDescription": "Large Hanger With Double Doors",
+            "FlagOffset": [5.0, -1.58, 0.6],
+            "FlagOreintation": [180, 0, 0]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Medium Hangar Key",
+            "BuildingClass": "Land_fishyIND_hangar3",
+            "BuildingName": "Medium Hanger Three",
+            "BuildingDescription": "Medium Hanger With Double Doors",
+            "FlagOffset": [-1.54, -1.133, -5.9],
+            "FlagOreintation": [0, 0, 0]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Shed Key",
+            "BuildingClass": "Land_fishyIND_shed1",
+            "BuildingName": "Small Green Shed",
+            "BuildingDescription": "Small Green One Door Shed",
+            "FlagOffset": [-0.77, -1.29, 0.8],
+            "FlagOreintation": [200, 0, 0]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Shed Key",
+            "BuildingClass": "Land_fishyIND_shed2",
+            "BuildingName": "Medium Blue Shed",
+            "BuildingDescription": "Medium Blue One Door Shed",
+            "FlagOffset": [-0.98, -1.021, 0.3],
+            "FlagOreintation": [180, 0, 0]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Shed Key",
+            "BuildingClass": "Land_fishyIND_shed3",
+            "BuildingName": "Medium Brown Shed",
+            "BuildingDescription": "Medium Brown One Door Shed",
+            "FlagOffset": [0.9, -1.141, 1.9],
+            "FlagOreintation": [0, 0, 0]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Shed Key",
+            "BuildingClass": "Land_fishyIND_shed4",
+            "BuildingName": "Small Shed",
+            "BuildingDescription": "Small One Door Shed",
+            "FlagOffset": [0.11, -0.702, 0.7],
+            "FlagOreintation": [-90, 0, 0]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Warehouse Key",
+            "BuildingClass": "Land_fishyIND_warehouse1",
+            "BuildingName": "Large Brick Warehouse",
+            "BuildingDescription": "Large Red Brick Warehouse, Two Garage Doors With Bathroom And Office",
+            "FlagOffset": [-14.83, -3.617, -3.7],
+            "FlagOreintation": [130, 0, 0]
+        }
+]
+
+
+

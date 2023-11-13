@@ -1,0 +1,338 @@
+{
+    "Version": 2,
+    "UpdateFrequecy": 10.0,
+    "LogBuildingTypesLoad": 0,
+    "LogAction": 0,
+    "LogActionConditions": 0,
+    "EnableTerritoryFlag": 1,
+    "InitialFlagHeight": 5.0,
+    "DefaultFlagType": "Flag_DayZ",
+    "DefaultFlagTexture": "dz\\gear\\camping\\Data\\Flag_DAYZ_co.paa",
+    "TerritoryFlagLifeAccel": 1.0,
+    "MaxDoorHealth": 100000.0,
+    "KeyTypes": [
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "House Key",
+            "BuildingClass": "Land_House_1W01",
+            "BuildingName": "One Bedroom House",
+            "BuildingDescription": "Red and green one bedroom house",
+            "FlagOffset": [
+                -0.8857420086860657,
+                -2.796905994415283,
+                3.497070074081421
+            ],
+            "FlagOreintation": [
+                180.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "House Key",
+            "BuildingClass": "Land_House_1W05",
+            "BuildingName": "Green Studio House",
+            "BuildingDescription": "Large green studio house",
+            "FlagOffset": [
+                0.9658200144767761,
+                -1.0961610078811646,
+                -0.1992190033197403
+            ],
+            "FlagOreintation": [
+                180.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "House Key",
+            "BuildingClass": "Land_House_1W11",
+            "BuildingName": "Yellow Studio House",
+            "BuildingDescription": "Large yellow studio house",
+            "FlagOffset": [
+                -1.995116949081421,
+                -2.7877349853515627,
+                -0.6992189884185791
+            ],
+            "FlagOreintation": [
+                -90.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "House Key",
+            "BuildingClass": "Land_House_2W01",
+            "BuildingName": "House With Attic",
+            "BuildingDescription": "One bedroom house with an attic",
+            "FlagOffset": [
+                0.2568359971046448,
+                0.07359299808740616,
+                1.5722659826278687
+            ],
+            "FlagOreintation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType2",
+            "KeyName": "House Key",
+            "BuildingClass": "Land_House_2W02",
+            "BuildingName": "Mustache House",
+            "BuildingDescription": "Large green two bedroom, two story 'mustache' house",
+            "FlagOffset": [
+                4.547852039337158,
+                -1.3884429931640626,
+                -2.916016101837158
+            ],
+            "FlagOreintation": [
+                -54.999900817871097,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType2",
+            "KeyName": "Apartment Key",
+            "BuildingClass": "Land_House_2W03",
+            "BuildingName": "Green Upstairs Apartment",
+            "BuildingDescription": "Large green upstairs studio apartment",
+            "FlagOffset": [
+                -8.900390625,
+                -0.8489999771118164,
+                -0.40039101243019106
+            ],
+            "FlagOreintation": [
+                179.99998474121095,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType2",
+            "KeyName": "Apartment Key",
+            "BuildingClass": "Land_House_2W03_Brown",
+            "BuildingName": "Brown Upstairs Apartment",
+            "BuildingDescription": "Large brown upstairs studio apartment",
+            "FlagOffset": [
+                -8.7001953125,
+                -0.9260299801826477,
+                -0.640625
+            ],
+            "FlagOreintation": [
+                -159.99998474121095,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType3",
+            "KeyName": "Apartment Key",
+            "BuildingClass": "Land_House_2W04",
+            "BuildingName": "Red Two Bedroom Upstairs",
+            "BuildingDescription": "Large red two bedroom upstairs",
+            "FlagOffset": [
+                0.09179700165987015,
+                -0.8163759708404541,
+                1.1484379768371583
+            ],
+            "FlagOreintation": [
+                179.99998474121095,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType4",
+            "KeyName": "Apartment Key",
+            "BuildingClass": "Land_House_2W04_Yellow",
+            "BuildingName": "Yellow Two Bedroom Upstairs",
+            "BuildingDescription": "Large yellow two bedroom upstairs",
+            "FlagOffset": [
+                0.0,
+                -0.8280789852142334,
+                0.6103519797325134
+            ],
+            "FlagOreintation": [
+                169.99998474121095,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType3",
+            "KeyName": "Garage Key",
+            "BuildingClass": "Land_Shed_Closed",
+            "BuildingName": "Metal Garage",
+            "BuildingDescription": "Large metal garage",
+            "FlagOffset": [
+                5.110000133514404,
+                -1.600000023841858,
+                -9.760000228881836
+            ],
+            "FlagOreintation": [
+                60.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType4",
+            "KeyName": "Pub Key",
+            "BuildingClass": "Land_Village_Pub",
+            "BuildingName": "Village PUB",
+            "BuildingDescription": "Two story village PUB with porch",
+            "FlagOffset": [
+                -1.472656011581421,
+                -0.8642269968986511,
+                1.2001949548721314
+            ],
+            "FlagOreintation": [
+                25.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Large Hangar Key",
+            "BuildingClass": "Land_fishyIND_hangar1",
+            "BuildingName": "Large Hanger One",
+            "BuildingDescription": "Large Hanger With Garage Door",
+            "FlagOffset": [
+                -6.550000190734863,
+                -1.621999979019165,
+                -1.2999999523162842
+            ],
+            "FlagOreintation": [
+                180.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Large Hangar Key",
+            "BuildingClass": "Land_fishyIND_hangar2",
+            "BuildingName": "Large Hanger Two",
+            "BuildingDescription": "Large Hanger With Double Doors",
+            "FlagOffset": [
+                5.0,
+                -1.5800000429153443,
+                0.6000000238418579
+            ],
+            "FlagOreintation": [
+                180.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Medium Hangar Key",
+            "BuildingClass": "Land_fishyIND_hangar3",
+            "BuildingName": "Medium Hanger Three",
+            "BuildingDescription": "Medium Hanger With Double Doors",
+            "FlagOffset": [
+                -1.5399999618530274,
+                -1.1330000162124634,
+                -5.900000095367432
+            ],
+            "FlagOreintation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Shed Key",
+            "BuildingClass": "Land_fishyIND_shed1",
+            "BuildingName": "Small Green Shed",
+            "BuildingDescription": "Small Green One Door Shed",
+            "FlagOffset": [
+                -0.7699999809265137,
+                -1.2899999618530274,
+                0.800000011920929
+            ],
+            "FlagOreintation": [
+                200.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Shed Key",
+            "BuildingClass": "Land_fishyIND_shed2",
+            "BuildingName": "Medium Blue Shed",
+            "BuildingDescription": "Medium Blue One Door Shed",
+            "FlagOffset": [
+                -0.9800000190734863,
+                -1.0210000276565552,
+                0.30000001192092898
+            ],
+            "FlagOreintation": [
+                180.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Shed Key",
+            "BuildingClass": "Land_fishyIND_shed3",
+            "BuildingName": "Medium Brown Shed",
+            "BuildingDescription": "Medium Brown One Door Shed",
+            "FlagOffset": [
+                0.8999999761581421,
+                -1.1410000324249268,
+                1.899999976158142
+            ],
+            "FlagOreintation": [
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Shed Key",
+            "BuildingClass": "Land_fishyIND_shed4",
+            "BuildingName": "Small Shed",
+            "BuildingDescription": "Small One Door Shed",
+            "FlagOffset": [
+                0.10999999940395355,
+                -0.7020000219345093,
+                0.699999988079071
+            ],
+            "FlagOreintation": [
+                -90.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "KeyClass": "DoorKeyType1",
+            "KeyName": "Warehouse Key",
+            "BuildingClass": "Land_fishyIND_warehouse1",
+            "BuildingName": "Large Brick Warehouse",
+            "BuildingDescription": "Large Red Brick Warehouse, Two Garage Doors With Bathroom And Office",
+            "FlagOffset": [
+                -14.829999923706055,
+                -3.617000102996826,
+                -3.700000047683716
+            ],
+            "FlagOreintation": [
+                130.0,
+                0.0,
+                0.0
+            ]
+        }
+    ]
+}

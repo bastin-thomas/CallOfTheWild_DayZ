@@ -41,4 +41,9 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+
+	<ce folder="BuildingKeys_ce">
+		<file name="Key_types.xml" type="types" />
+	</ce>
+	
 </economycore>

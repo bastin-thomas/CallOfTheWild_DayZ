@@ -22,3 +22,5 @@ DayZServer/config/DataCache/**
 *.DayZProfile
 *.map
 *.pbo
+
+credentials.txt

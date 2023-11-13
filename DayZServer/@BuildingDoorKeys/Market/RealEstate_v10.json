@@ -1,0 +1,131 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Real Estate",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "DoorKey_House_1W01",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DoorKey_House_1W05",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DoorKey_House_1W11",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },	
+    {
+      "ClassName": "DoorKey_House_2W01",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DoorKey_House_2W02",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DoorKey_House_2W03",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DoorKey_House_2W03_Brown",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },	
+    {
+      "ClassName": "DoorKey_House_2W04",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },	
+    {
+      "ClassName": "DoorKey_House_2W04_Yellow",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 300,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 10,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },		
+    {
+      "ClassName": "DoorKey_Shed_Closed",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "DoorKey_Village_Pub",
+      "MaxPriceThreshold": 400,
+      "MinPriceThreshold": 350,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 100,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}

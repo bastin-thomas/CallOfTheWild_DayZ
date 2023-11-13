@@ -12,6 +12,9 @@ DayZServer/mpmissions/dayzOffline.chernarusplus/storage_1/**
 
 DayZServer/config/BattlEye/**
 DayZServer/config/DataCache/**
+
+DayZServer/config/Zenarchist/Logs/**
+
 #Unused File Ignore
 *.gproj
 *.dll

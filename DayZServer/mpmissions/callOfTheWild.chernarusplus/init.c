@@ -64,6 +64,12 @@ class CustomMission: MissionServer
 		{
 			SetRandomHealth( itemClothing );
 			
+			itemEnt = player.GetInventory().CreateInInventory( "HuntingKnife" );
+			player.SetQuickBarEntityShortcut(itemEnt, 1);
+
+			player.GetInventory().CreateInInventory( "WaterBottle" );
+			player.GetInventory().CreateInInventory( "Matchbox" );
+
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
 			player.SetQuickBarEntityShortcut(itemEnt, 2);
 			
@@ -71,7 +77,7 @@ class CustomMission: MissionServer
 			int rndIndex = Math.RandomInt( 0, 4 );
 			itemEnt = itemClothing.GetInventory().CreateInInventory( chemlightArray[rndIndex] );
 			SetRandomHealth( itemEnt );
-			player.SetQuickBarEntityShortcut(itemEnt, 1);
+			player.SetQuickBarEntityShortcut(itemEnt, 4);
 
 			rand = Math.RandomFloatInclusive( 0.0, 1.0 );
 			if ( rand < 0.35 )

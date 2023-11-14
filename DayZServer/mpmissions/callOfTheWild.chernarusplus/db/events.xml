@@ -661,7 +661,7 @@
         <children/>
     </event>
     <event name="StaticAirplaneCrate">
-        <nominal>9</nominal>
+        <nominal>1</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
@@ -680,7 +680,7 @@
         </children>
     </event>
     <event name="StaticBonfire">
-        <nominal>20</nominal>
+        <nominal>2</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>86400</lifetime>
@@ -698,7 +698,7 @@
         </children>
     </event>
     <event name="StaticChristmasTree">
-        <nominal>13</nominal>
+        <nominal>2</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>43200</lifetime>
@@ -747,7 +747,7 @@
         <children/>
     </event>
     <event name="StaticHeliCrash">
-        <nominal>3</nominal>
+        <nominal>2</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2100</lifetime>
@@ -766,7 +766,7 @@
         </children>
     </event>
     <event name="StaticMilitaryConvoy">
-        <nominal>5</nominal>
+        <nominal>1</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>
@@ -817,7 +817,7 @@
         <children/>
     </event>
     <event name="StaticSantaCrash">
-        <nominal>3</nominal>
+        <nominal>0</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>2100</lifetime>
@@ -837,7 +837,7 @@
     <event name="StaticTrain">
         <nominal>3</nominal>
         <min>1</min>
-        <max>0</max>
+        <max>5</max>
         <lifetime>5400</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1300,9 +1300,9 @@
 
     <!-- ================ RedFalcon [START] ================= -->
     <event name="VehicleRFWC_Watercraft">
-        <nominal>15</nominal>
-        <min>10</min>
-        <max>15</max>
+        <nominal>5</nominal>
+        <min>2</min>
+        <max>10</max>
         <lifetime>300</lifetime>
         <restock>3</restock>
         <saferadius>500</saferadius>
@@ -1313,22 +1313,15 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Whaler" />
-        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_CarpBoat" />
-        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_CarpBoat_Rusty" />
-        <child lootmax="0" lootmin="0" max="4" min="2" type="RFWC_Zodiac_Black" />
-        <child lootmax="0" lootmin="0" max="4" min="2" type="RFWC_Zodiac_Orange" />
-        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_DragBoat_Red" />
-        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_DragBoat_Black" />
-        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Camo" />
-        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Orange" />
-        <child lootmax="0" lootmin="0" max="2" min="1" type="RFWC_Seadoo_Orange" />
+        <child lootmax="0" lootmin="0" max="6" min="1" type="RFWC_Whaler" />
+        <child lootmax="0" lootmin="0" max="2" min="2" type="RFWC_Zodiac_Orange" />
         </children>
     </event>
+
     <event name="VehicleHeliSpawn">
-        <nominal>3</nominal>
-        <min>2</min>
-        <max>5</max>
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>3</max>
         <lifetime>300</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -1337,37 +1330,10 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>fixed</position>
         <limit>mixed</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird_Camo"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird_Desert"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m_blackcamo"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_KA26"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Police"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Medic"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_ZS"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Uganda"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Military"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Hornet"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Winter"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Desert"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk_Cargo"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk_Woodland"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_CH53e"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_CH47"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_EC135"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_EC135_BlackCamo"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H_Combat"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_S76"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_S76_WoodlandCamo"/>
-            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_AS350"/>
+            <child lootmax="0" lootmin="0" max="3" min="3" type="RFFSHeli_Mi2_Military"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="RFFSHeli_UH1H"/>
         </children>
     </event>
     <!-- ================ RedFalcon [END]   ================= -->

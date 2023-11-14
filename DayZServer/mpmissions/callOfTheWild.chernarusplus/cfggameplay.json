@@ -62,7 +62,7 @@
 			"disableIsCollidingPlayerCheck": false,
 			"disableIsClippingRoofCheck": true,
 			"disableIsBaseViableCheck": true,
-			"disableIsCollidingGPlotCheck": false,
+			"disableIsCollidingGPlotCheck": true,
 			"disableIsCollidingAngleCheck": true,
 			"disableIsPlacementPermittedCheck": true,
 			"disableHeightPlacementCheck": true,
@@ -83,7 +83,7 @@
 		"use3DMap": true,
 		"HitIndicationData":
 		{
-			"hitDirectionOverrideEnabled": true,
+			"hitDirectionOverrideEnabled": false,
 			"hitDirectionBehaviour": 1,
 			"hitDirectionStyle": 0,
 			"hitDirectionIndicatorColorStr": "0xffbb0a1e",

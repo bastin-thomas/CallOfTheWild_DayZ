@@ -102,3 +102,6 @@ Logs Started: 2023-11-14_19-24-27
 19:24:27 | Building Sets Loaded: 0
 19:24:27 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
 19:24:27 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+19:42:30 | Player "Survivor" (steamId=76561198195638943) connected to server!
+20:11:42 | Player "Survivor" (steamId=76561198195638943) initiated disconnect process...
+20:12:12 | Player "Survivor" (steamId=76561198195638943) disconnected from server.

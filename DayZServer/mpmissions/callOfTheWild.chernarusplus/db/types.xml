@@ -2945,7 +2945,7 @@
         <usage name="Town"/>
     </type>
     <type name="Battery9V">
-        <nominal>100</nominal>
+        <nominal>150</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>80</min>
@@ -2963,6 +2963,7 @@
         <lifetime>604800</lifetime>
         <restock>360</restock>
         <min>20</min>
+        <max>30</max>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -3925,7 +3926,7 @@
         <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>2</min>
-        <max>6</max>
+        <max>3</max>
         <quantmin>0</quantmin>
         <quantmax>80</quantmax>
         <cost>100</cost>
@@ -4084,7 +4085,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="Canteen">
-        <nominal>20</nominal>
+        <nominal>35</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -4540,7 +4541,7 @@
         <usage name="Village"/>
     </type>
     <type name="ChernarusMap">
-        <nominal>50</nominal>
+        <nominal>70</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>30</min>
@@ -7417,7 +7418,7 @@
         <usage name="Military"/>
     </type>
     <type name="Flashlight">
-        <nominal>90</nominal>
+        <nominal>120</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>70</min>
@@ -9873,7 +9874,7 @@
         <value name="Tier4"/>
     </type>
     <type name="HuntingKnife">
-        <nominal>60</nominal>
+        <nominal>80</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>50</min>
@@ -19641,7 +19642,7 @@
         <usage name="Farm"/>
     </type>
     <type name="Whetstone">
-        <nominal>80</nominal>
+        <nominal>120</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>65</min>
